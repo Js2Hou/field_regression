@@ -1,0 +1,6 @@
+Test_book (32, 32, 3, 100)
+Test_glasses (32, 32, 3, 100)
+Test_hand (32, 32, 7, 100)
+Test_illumin (32, 32, 3, 100)
+Test_sarf (32, 32, 3, 100)
+Train_DAT (32, 32, 6, 100)
